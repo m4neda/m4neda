@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi 👋
 
+I'm now working on https://github.com/m4neda/techblogrankingjp
 <!--
 **m4neda/m4neda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

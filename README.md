@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm now working on https://github.com/m4neda/techblogrankingjp/tree/develop
+I'm now working on private project https://github.com/m4neda/techblogrankingjp
 <!--
 **m4neda/m4neda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
